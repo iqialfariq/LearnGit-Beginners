@@ -1,4 +1,4 @@
-Belajar Perintah Git:
+Belajar Perintah Git:  
 
 1. Create / Setup 
     • git init → inisialisasi repository Git. 
@@ -28,7 +28,7 @@ Belajar Perintah Git:
     • git remote add origin <link> → hubungkan repo lokal ke remote. 
     • git remote -v → cek remote yang terhubung. 
     • git fetch → ambil commit terbaru tanpa merge.
-    
+   
 5. Branching 
     • git branch <namabranch> → buat branch baru. 
     • git branch -D <namabranch> → hapus branch. 
