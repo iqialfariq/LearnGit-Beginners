@@ -1,7 +1,5 @@
-# 💡 Penjelasan GIT
-Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak perubahan dalam kode sumber selama pengembangan perangkat lunak.  
-Dengan Git, beberapa pengembang dapat bekerja secara bersamaan pada proyek yang sama tanpa konflik, serta memungkinkan kolaborasi yang lebih efisien untuk pengelolaan versi kode yang lebih baik.  
-Git sendiri diciptakan oleh **Linus Torvalds**.
+# Penjelasan GIT 💡
+Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak perubahan dalam kode sumber selama pengembangan perangkat lunak. Dengan Git, beberapa pengembang dapat bekerja secara bersamaan pada proyek yang sama tanpa konflik, serta memungkinkan kolaborasi yang lebih efisien untuk pengelolaan versi kode yang lebih baik. Git sendiri diciptakan oleh **Linus Torvalds**.
 
 ---
 
