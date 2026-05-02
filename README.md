@@ -3,15 +3,15 @@ Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak pe
 
 ---
 
-## 📎 Macam-macam Perintah Git
+## Macam-macam Perintah Git 📌
 
-### 🪄 1. Create / Setup  
+### 1. Create / Setup  
 - `git init` → inisialisasi repository Git  
 - `git clone <link>` → cloning repository dari remote ke lokal  
 
 ---
 
-### ✏️ 2. Make a Change  
+### 2. Make a Change  
 - `git add <namafile/folder>` → tambahkan ke staging area  
 - `git add .` → tambahkan semua perubahan  
 - `git commit -m "pesan"` → simpan snapshot perubahan  
@@ -24,7 +24,7 @@ Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak pe
 
 ---
 
-### 🔍 3. Observe  
+### 3. Observe  
 - `git status` → cek kondisi repo  
 - `git diff` → lihat perbedaan antar versi file  
 - `git show <hash>` → detail commit tertentu  
@@ -33,7 +33,7 @@ Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak pe
 
 ---
 
-### 🔄 4. Sync  
+### 4. Sync  
 - `git push origin <namabranch>` → kirim commit ke remote  
 - `git pull origin <namabranch>` → ambil commit dari remote  
 - `git remote add origin <link>` → hubungkan repo lokal ke remote  
@@ -42,7 +42,7 @@ Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak pe
 
 ---
 
-### 🌿 5. Branching  
+### 5. Branching  
 - `git branch <namabranch>` → buat branch baru  
 - `git branch -D <namabranch>` → hapus branch  
 - `git branch` → lihat daftar branch  
