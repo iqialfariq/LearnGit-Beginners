@@ -1,4 +1,7 @@
-## Belajar Perintah Git  
+## Penjelasan GIT
+## Git merupakan system control versi terdistribusi yang digunakan untuk melacak perubahan dalam kode sumber selama pengembangan perangkat lunak. Dengan git beberapa pengembangan dapat bekerja secara bersamaan pada proyek yang sama tanpa konflik, serta memungkinkan kolaborasi yang lebih effisien untuk pengelolaan versi kode yang lebih baik. Git sendiri diciptakan oleh linus torvalds. 
+
+## Macam-macam Perintah Git
 
 ### 1. Create / Setup  
 - `git init` → inisialisasi repository Git  
