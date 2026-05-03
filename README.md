@@ -1,13 +1,13 @@
-# Penjelasan GIT 🧠
+#🧠 Penjelasan GIT
 <p align="justify">
 Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak perubahan dalam kode sumber selama pengembangan perangkat lunak. Dengan Git, beberapa pengembang dapat bekerja secara bersamaan pada proyek yang sama tanpa konflik, serta memungkinkan kolaborasi yang lebih efisien untuk pengelolaan versi kode yang lebih baik. Git sendiri diciptakan oleh Linus Torvalds.
 </p>
 
 ---
 
-## Macam-macam Perintah Git 📌
+##📌 Macam-macam Perintah Git
 
-### 1. Create / Setup ⚙️
+###⚙️ 1. Create / Setup
 ```
 - git init → inisialisasi repository Git  
 - git clone " LinkGithub " → cloning repository dari remote ke lokal
@@ -15,7 +15,7 @@ Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak pe
 
 ---
 
-### 2. Make a Change ✍️
+###✍️ 2. Make a Change
 ```
 - git add " NamaFile/Folder " → tambahkan ke staging area  
 - git add . → tambahkan semua perubahan  
@@ -29,7 +29,7 @@ Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak pe
 ```
 ---
 
-### 3. Observe 📎
+###🔍 3. Observe
 ```
 - git status → cek kondisi repo  
 - git diff → lihat perbedaan antar versi file  
@@ -39,7 +39,7 @@ Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak pe
 ```
 ---
 
-### 4. Sync 🔄
+###🔄 4. Sync
 ```
 - git push origin " NamaBranch " → kirim commit ke remote  
 - git pull origin " NamaBranch " → ambil commit dari remote  
@@ -49,7 +49,7 @@ Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak pe
 ```
 ---
 
-### 5. Branching 🌿
+###🌿 5. Branching
 ```
 - git branch " NamaBranch " → buat branch baru  
 - git branch -D " NamaBranch " → hapus branch  
@@ -59,7 +59,7 @@ Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak pe
 ```
 ---
 
-### 5. Tagging 🏷️
+###🏷️ 6. Tagging
 ```
 - git tag -a " NamaTag" → buat tag versi  
 - git push origin master --tags → kirim tag ke remote
