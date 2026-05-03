@@ -9,8 +9,8 @@ Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak pe
 
 ### 1. Create / Setup 📎
 ```
-- **git init** → inisialisasi repository Git  
-- **git clone <link>** → cloning repository dari remote ke lokal
+- git init → inisialisasi repository Git  
+- git clone <link> → cloning repository dari remote ke lokal
 ```
 
 ---
