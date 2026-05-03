@@ -1,11 +1,11 @@
-# Penjelasan GIT 💡
+# Penjelasan GIT💡
 <p align="justify">
 Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak perubahan dalam kode sumber selama pengembangan perangkat lunak. Dengan Git, beberapa pengembang dapat bekerja secara bersamaan pada proyek yang sama tanpa konflik, serta memungkinkan kolaborasi yang lebih efisien untuk pengelolaan versi kode yang lebih baik. Git sendiri diciptakan oleh **Linus Torvalds**.
 </p>
 
 ---
 
-## Macam-macam Perintah Git 📌
+## Macam-macam Perintah Git📌
 
 ### 1. Create / Setup 📎
 ```
