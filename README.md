@@ -7,7 +7,7 @@ Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak pe
 
 ## 📌 Macam-macam Perintah Git
 
-###⚙️ 1. Create / Setup
+### ⚙️ 1. Create / Setup
 ```
 - git init → inisialisasi repository Git  
 - git clone " LinkGithub " → cloning repository dari remote ke lokal
