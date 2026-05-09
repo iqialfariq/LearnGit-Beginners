@@ -61,6 +61,6 @@ Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak pe
 
 ### 🏷️ 6. Tagging
 ```
-- git tag -a " NamaTag" → buat tag versi  
+- git tag -a " NamaTag " → buat tag versi  
 - git push origin master --tags → kirim tag ke remote
 ```
