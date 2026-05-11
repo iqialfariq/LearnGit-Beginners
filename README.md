@@ -46,13 +46,3 @@ Git merupakan sistem kontrol versi terdistribusi yang digunakan untuk melacak pe
 ### 🏷️ Tagging
 - `git tag -a <NamaTag>` → buat tag versi  
 - `git push origin master --tags` → kirim tag ke remote  
-
----
-
-## 🎯 Catatan Icon
-- ⚙️ → Setup / konfigurasi  
-- ✍️ → Perubahan / edit  
-- 🔍 → Observasi / cek status  
-- 🔄 → Sinkronisasi  
-- 🌿 → Branching  
-- 🏷️ → Tagging  
